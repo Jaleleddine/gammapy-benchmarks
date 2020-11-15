@@ -1,4 +1,0 @@
-datasets:
-- name: stacked_ds
-  type: MapDataset
-  filename: stacked_data_stacked_ds.fits
